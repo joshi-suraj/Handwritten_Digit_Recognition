@@ -22,6 +22,7 @@ The developed model exhibits remarkable accuracy in recognizing Devanagari handw
 This project highlights the potential of using deep learning techniques to address complex recognition tasks, opening doors for further research and applications in the field of character recognition.
 
 **Future Enhancements**
+
 While the current model has achieved impressive results, there is always room for improvement. Some potential avenues for future enhancements include:
 
 Experimenting with different CNN architectures to further boost accuracy.
